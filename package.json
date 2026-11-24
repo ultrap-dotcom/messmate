@@ -1,0 +1,11 @@
+{
+  "name": "messmate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MessMate: food discovery platform for nearby messes (static prototype)",
+  "scripts": {
+    "dev": "npx --yes serve . -l 3000",
+    "start": "npx --yes serve . -l 3000"
+  },
+  "license": "UNLICENSED"
+}
